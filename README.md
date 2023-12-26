@@ -20,7 +20,12 @@ The program visualizes the mazes using Unicode characters. Walls are represented
 
 ![Screenshot 2023-09-07 111201](https://github.com/zahrabytes/Maze-Generation-Algo/assets/146145027/41d313c5-b73e-4e01-812b-b83a5f490a09)
 
-## Usage
+## Getting Started
+
+### Prerequisites
+Ensure you have a C++ compiler installed on your system. You can use g++ for compilation.
+
+### Usage
 - **Enter a random seed:** Provide a seed for the random number generator.
 - **Enter an algorithm (Kruskal/Prim):** Choose the maze generation algorithm.
 - View the generated maze and its solution.
