@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! this C++ program provides a maze generation and solving experience using three algorithms: Prim's and Kruskal's for maze generation and Dijkstra's for maze solving. The mazes are visualized using Unicode characters, creating an interactive and visually appealing environment.
+Welcome! this C++ program provides a maze generation and solving experience using three algorithms: Prim's and Kruskal's for maze generation and Dijkstra's for maze solving. The mazes are visualized using Unicode characters, creating an interactive and visually appealing environment. This project was developed by [Sala Tran-Huu](https://github.com/stranhuu) and [Zahra Bukhari](https://github.com/zahrabytes)
 
 # Maze Generation Algorithms
 
@@ -24,4 +24,4 @@ The program visualizes the mazes using Unicode characters. Walls are represented
 - **Enter a random seed:** Provide a seed for the random number generator.
 - **Enter an algorithm (Kruskal/Prim):** Choose the maze generation algorithm.
 - View the generated maze and its solution.
-- Optionally, explore the longest path in the generated maze.
+- Optionally, explore the longest path that we have have generated (so far) for each algorithm.
